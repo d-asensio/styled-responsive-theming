@@ -1,0 +1,38 @@
+{
+  "name": "styled-responsive-theming",
+  "version": "0.0.1",
+  "description": "styled-components theming with responsive skills 💅💪",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "scripts": {
+    "build": "nwb build-react-component",
+    "clean": "nwb clean-module && nwb clean-demo",
+    "start": "nwb serve-react-demo"
+  },
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.mapvalues": "^4.6.0",
+    "lodash.merge": "^4.6.1",
+    "object-path": "^0.11.4"
+  },
+  "peerDependencies": {
+    "react": "16.x",
+    "styled-components": "3.x"
+  },
+  "devDependencies": {
+    "nwb": "0.21.x",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^3.2.3"
+  },
+  "author": "David Asensio Cañas <david.asensio@icloud.com>",
+  "license": "MIT",
+  "repository": "https://github.com/d-asensio/styled-responsive-theming",
+  "keywords": [
+    "react-component"
+  ]
+}

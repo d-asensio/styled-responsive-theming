@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2312px" height="1487px" viewBox="0 0 2312 1487" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFE4C8;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <rect id="Rectangle-8" fill="#FFFFFF" x="96" y="192" width="360" height="640"></rect>
+            <rect id="Rectangle-8" fill="#FFFFFF" x="520" y="192" width="600" height="640"></rect>
+            <rect id="Rectangle-8" fill="#FFFFFF" x="1184" y="192" width="1024" height="1231"></rect>
+            <g id="Medium" transform="translate(520.000000, 192.000000)">
+                <g id="Group-3" stroke-width="1" fill-rule="evenodd">
+                    <g id="Group">
+                        <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="600" height="400"></rect>
+                        <path d="M0,0 L600,400" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                        <path d="M0,0 L600,400" id="Line" stroke="#979797" stroke-linecap="square" transform="translate(300.000000, 200.000000) scale(-1, 1) translate(-300.000000, -200.000000) "></path>
+                    </g>
+                    <g id="Group-2" transform="translate(0.000000, 300.000000)">
+                        <rect id="Rectangle-2" fill-opacity="0.799999952" fill="#A3A3A3" x="0" y="0" width="600" height="100"></rect>
+                        <rect id="Rectangle-3" fill="#D8D8D8" x="16" y="16" width="333" height="34"></rect>
+                        <rect id="Rectangle-4" fill="#D8D8D8" x="16" y="58" width="500" height="26"></rect>
+                    </g>
+                </g>
+                <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 400.000000)">
+                    <rect id="Rectangle-6" fill="#F7EFEF" x="0" y="0" width="601" height="56"></rect>
+                    <g id="Group" transform="translate(16.000000, 16.000000)" fill="#D8D8D8">
+                        <circle id="Oval" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle-5" x="40" y="2" width="130" height="21"></rect>
+                    </g>
+                    <g id="Group" transform="translate(216.000000, 16.000000)" fill="#D8D8D8">
+                        <circle id="Oval" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle-5" x="40" y="2" width="130" height="21"></rect>
+                    </g>
+                    <g id="Group" transform="translate(415.000000, 16.000000)" fill="#D8D8D8">
+                        <circle id="Oval" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle-5" x="40" y="2" width="130" height="21"></rect>
+                    </g>
+                </g>
+                <g id="Group-4" stroke-width="1" fill-rule="evenodd" transform="translate(16.000000, 472.000000)">
+                    <g id="Group-2">
+                        <g id="Group">
+                            <g id="Group-5" transform="translate(8.000000, 0.000000)" fill="#D8D8D8">
+                                <rect id="Rectangle-5" x="86" y="0" width="140" height="19"></rect>
+                                <rect id="Rectangle-5" x="0" y="0" width="70" height="19"></rect>
+                            </g>
+                            <g id="Group-5" transform="translate(334.000000, 0.000000)" fill="#D8D8D8">
+                                <rect id="Rectangle-5" x="86" y="0" width="140" height="19"></rect>
+                                <rect id="Rectangle-5" x="0" y="0" width="70" height="19"></rect>
+                            </g>
+                            <path d="M0.5,28.5 L567.5,28.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                </g>
+                <text id="Lorem-ipsum-dolor-si" font-family="Lato-Light, Lato" font-size="16" font-weight="300" fill="#878787">
+                    <tspan x="16" y="532">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porta, massa ut </tspan>
+                    <tspan x="16" y="551">viverra iaculis, massa nibh iaculis lorem, at varius justo metus et mauris. Maecenas </tspan>
+                    <tspan x="16" y="570">nibh tellus, hendrerit in lectus sed, gravida cursus erat. Maecenas felis ex, tempus </tspan>
+                    <tspan x="16" y="589">vitae neque nec, blandit facilisis nulla. Sed vel justo vitae purus vestibulum efficitur </tspan>
+                    <tspan x="16" y="608">varius vitae nisl.</tspan>
+                </text>
+            </g>
+            <g id="Small" transform="translate(96.000000, 192.000000)">
+                <g id="Group-3" stroke-width="1" fill-rule="evenodd">
+                    <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="360" height="240"></rect>
+                    <path d="M0,0 L360,240" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M0,0 L360,240" id="Line" stroke="#979797" stroke-linecap="square" transform="translate(180.000000, 120.000000) scale(-1, 1) translate(-180.000000, -120.000000) "></path>
+                    <rect id="Rectangle-2" fill-opacity="0.799999952" fill="#A3A3A3" x="0" y="144" width="360" height="96"></rect>
+                    <rect id="Rectangle-3" fill="#D8D8D8" x="16" y="160" width="200" height="32"></rect>
+                    <rect id="Rectangle-4" fill="#D8D8D8" x="16" y="200" width="300" height="24"></rect>
+                </g>
+                <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 240.000000)">
+                    <rect id="Rectangle-6" fill="#F7EFEF" x="0" y="0" width="360" height="140"></rect>
+                    <g id="Group" transform="translate(16.000000, 16.000000)">
+                        <circle id="Oval" fill="#D8D8D8" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle-5" fill="#D8D8D8" x="40" y="2" width="280" height="21"></rect>
+                        <path d="M32.5,32.5 L327.5,32.5" id="Line-2" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    </g>
+                    <g id="Group" transform="translate(16.000000, 58.000000)">
+                        <circle id="Oval" fill="#D8D8D8" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle-5" fill="#D8D8D8" x="40" y="2" width="280" height="21"></rect>
+                        <path d="M32.5,32.5 L327.5,32.5" id="Line-2" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    </g>
+                    <g id="Group" transform="translate(16.000000, 100.000000)" fill="#D8D8D8">
+                        <circle id="Oval" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle-5" x="40" y="2" width="280" height="21"></rect>
+                    </g>
+                </g>
+                <g id="Group-4" stroke-width="1" fill-rule="evenodd" transform="translate(16.000000, 400.000000)">
+                    <g id="Group-2">
+                        <g id="Group">
+                            <rect id="Rectangle-5" fill="#D8D8D8" x="180" y="0" width="140" height="19"></rect>
+                            <rect id="Rectangle-5" fill="#D8D8D8" x="8" y="0" width="70" height="19"></rect>
+                            <path d="M0.5,28.5 L327.5,28.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                    <g id="Group-2" transform="translate(8.000000, 38.000000)" fill="#D8D8D8">
+                        <g id="Group">
+                            <rect id="Rectangle-5" x="172" y="0" width="140" height="19"></rect>
+                            <rect id="Rectangle-5" x="0" y="0" width="70" height="19"></rect>
+                        </g>
+                    </g>
+                </g>
+                <text id="Lorem-ipsum-dolor-si" font-family="Lato-Light, Lato" font-size="14" font-weight="300" fill="#878787">
+                    <tspan x="16" y="491">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </tspan>
+                    <tspan x="16" y="508">Vestibulum porta, massa ut viverra iaculis, massa nibh </tspan>
+                    <tspan x="16" y="525">iaculis lorem, at varius justo metus et mauris. Maecenas </tspan>
+                    <tspan x="16" y="542">nibh tellus, hendrerit in lectus sed, gravida cursus erat. </tspan>
+                    <tspan x="16" y="559">Maecenas felis ex, tempus vitae neque nec, blandit </tspan>
+                    <tspan x="16" y="576">facilisis nulla. Sed vel justo vitae purus vestibulum </tspan>
+                    <tspan x="16" y="593">efficitur varius vitae nisl.</tspan>
+                    <tspan x="16" y="610"></tspan>
+                    <tspan x="16" y="627">Cras iaculis gravida dapibus. Morbi nunc turpis, </tspan>
+                </text>
+            </g>
+            <g id="Large" transform="translate(1184.000000, 192.000000)">
+                <g id="Group-3" stroke-width="1" fill-rule="evenodd">
+                    <g id="Group">
+                        <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="1024" height="684"></rect>
+                        <path d="M0,0 L1024,684" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                        <path d="M0,0 L1024,684" id="Line" stroke="#979797" stroke-linecap="square" transform="translate(512.000000, 342.000000) scale(-1, 1) translate(-512.000000, -342.000000) "></path>
+                    </g>
+                    <g id="Group-2" transform="translate(0.000000, 426.000000)">
+                        <rect id="Rectangle-2" fill-opacity="0.799999952" fill="#A3A3A3" x="0" y="0" width="1024" height="258"></rect>
+                        <rect id="Rectangle-3" fill="#D8D8D8" x="32" y="32" width="578" height="63"></rect>
+                        <rect id="Rectangle-4" fill="#D8D8D8" x="32" y="111" width="862" height="43"></rect>
+                    </g>
+                </g>
+                <g id="Group-4" stroke-width="1" fill-rule="evenodd" transform="translate(648.000000, 714.000000)">
+                    <g id="Group-2">
+                        <g id="Group">
+                            <rect id="Rectangle-5" fill="#D8D8D8" x="188.780488" y="0" width="146.829268" height="19"></rect>
+                            <rect id="Rectangle-5" fill="#D8D8D8" x="8.3902439" y="0" width="73.4146341" height="19"></rect>
+                            <path d="M0.524390244,28.5 L343.47561,28.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                    <g id="Group-2" transform="translate(8.390244, 38.000000)" fill="#D8D8D8">
+                        <g id="Group">
+                            <rect id="Rectangle-5" x="180.390244" y="0" width="146.829268" height="19"></rect>
+                            <rect id="Rectangle-5" x="0" y="0" width="73.4146341" height="19"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(32.000000, 628.000000)" fill="#D8D8D8">
+                    <g id="Group">
+                        <circle id="Oval" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle-5" x="40" y="2" width="130" height="21"></rect>
+                    </g>
+                    <g id="Group" transform="translate(200.000000, 0.000000)">
+                        <circle id="Oval" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle-5" x="40" y="2" width="130" height="21"></rect>
+                    </g>
+                    <g id="Group" transform="translate(399.000000, 0.000000)">
+                        <circle id="Oval" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle-5" x="40" y="2" width="130" height="21"></rect>
+                    </g>
+                </g>
+                <text id="Lorem-ipsum-dolor-si" font-family="Lato-Light, Lato" font-size="18" font-weight="300" fill="#878787">
+                    <tspan x="32" y="732">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porta, </tspan>
+                    <tspan x="32" y="754">massa ut viverra iaculis, massa nibh iaculis lorem, at varius justo metus et </tspan>
+                    <tspan x="32" y="776">mauris. Maecenas nibh tellus, hendrerit in lectus sed, gravida cursus erat. </tspan>
+                    <tspan x="32" y="798">Maecenas felis ex, tempus vitae neque nec, blandit facilisis nulla. Sed vel justo </tspan>
+                    <tspan x="32" y="820">vitae purus vestibulum efficitur varius vitae nisl.</tspan>
+                    <tspan x="32" y="842"></tspan>
+                    <tspan x="32" y="864">Cras iaculis gravida dapibus. Morbi nunc turpis, condimentum consectetur </tspan>
+                    <tspan x="32" y="886">varius id, elementum sit amet tortor. Morbi sollicitudin, dolor sit amet </tspan>
+                    <tspan x="32" y="908">vulputate tincidunt, massa odio volutpat quam, vel posuere leo tellus sed </tspan>
+                    <tspan x="32" y="930">ante. Nulla finibus urna at erat mattis, malesuada bibendum orci bibendum. </tspan>
+                    <tspan x="32" y="952">Sed leo dui, feugiat vitae consectetur vel, placerat blandit magna. Morbi </tspan>
+                    <tspan x="32" y="974">aliquet feugiat quam eget eleifend. Pellentesque vel tempor tellus. Aliquam </tspan>
+                    <tspan x="32" y="996">molestie imperdiet ipsum quis fringilla.</tspan>
+                    <tspan x="32" y="1018"></tspan>
+                    <tspan x="32" y="1040">Morbi sollicitudin enim non arcu dictum, sed vehicula lacus imperdiet. Mauris </tspan>
+                    <tspan x="32" y="1062">eu tempus est. In egestas mauris in dapibus convallis. Aliquam interdum sed </tspan>
+                    <tspan x="32" y="1084">lectus ut luctus. Donec ullamcorper luctus eros eget vehicula. Cras sagittis </tspan>
+                    <tspan x="32" y="1106">egestas hendrerit. Vivamus dapibus magna in eleifend faucibus. Aenean vitae </tspan>
+                    <tspan x="32" y="1128">elit at ipsum cursus bibendum.</tspan>
+                    <tspan x="32" y="1150"></tspan>
+                    <tspan x="32" y="1172">Mauris in pulvinar velit, at pellentesque leo. Quisque nec sollicitudin erat, et </tspan>
+                    <tspan x="32" y="1194">tempor velit. Donec pharetra vehicula turpis et vulputate. Phasellus id nisl </tspan>
+                    <tspan x="32" y="1216">sed enim tempor pellentesque. Nulla at diam tempor, feugiat arcu </tspan>
+                </text>
+            </g>
+            <text id="SMALL" font-family="Lato-Bold, Lato" font-size="72" font-weight="bold" fill="#AEAEAE">
+                <tspan x="160.422" y="145">SMALL</tspan>
+            </text>
+            <text id="MEDIUM" font-family="Lato-Bold, Lato" font-size="72" font-weight="bold" fill="#AEAEAE">
+                <tspan x="668.008" y="145">MEDIUM</tspan>
+            </text>
+            <text id="LARGE" font-family="Lato-Bold, Lato" font-size="72" font-weight="bold" fill="#AEAEAE">
+                <tspan x="1582.474" y="145">LARGE</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
