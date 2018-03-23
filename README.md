@@ -18,6 +18,8 @@ styled-components theming with responsive skills 💅💪
 
 This project is a mere PROOF OF CONCEPT as no tests have been implemented, the implementation is dirty and the API is extremely sensitive to change. We would discourage you from using this in a production environment but if you are brave (and maybe a bit crazy also 🙈) and you decide to use it anyway, your feedback, PR, issues or anything that could help will be very very welcome.
 
+You can join the discussion about implementation details at the [spectrum thread](https://spectrum.chat/thread/0d131a9e-a687-4a64-a29e-eff7aaf84c46)
+
 ## Installation
 
 ```bash
