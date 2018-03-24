@@ -1,6 +1,6 @@
 {
   "name": "styled-responsive-theming",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "styled-components theming with responsive skills 💅💪",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -11,7 +11,8 @@
   "scripts": {
     "build": "nwb build-react-component",
     "clean": "nwb clean-module && nwb clean-demo",
-    "start": "nwb serve-react-demo"
+    "start": "nwb serve-react-demo",
+    "prepare": "npm run build"
   },
   "dependencies": {
     "lodash.clonedeep": "^4.5.0",
