@@ -161,7 +161,7 @@ Next, we started a discussion about how to split down the design in small, compo
 
 At that moment we were using [styled-system](https://github.com/jxnblk/styled-system) and taking advantage of its awesome responsive props, "this is a piece of cake!" we thought... But then we started to develop our `DescriptionList` component and there is where the nightmare started.
 
-The problem was that we ended up with a component way more complex than we expected at the beginning, in other words... it was a mess for the consumer to use it. To illustrate this in a simplified way, here goes the interface of what we implemented first:
+The problem was that we ended up with a way more complex component than we expected at the beginning, in other words... it was a mess for the consumer to use it. To illustrate this in a simplified way, here goes the interface of what we implemented first:
 
 ```jsx
 const PrimaryDescriptionList = () => (
