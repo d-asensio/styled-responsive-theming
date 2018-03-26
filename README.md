@@ -16,7 +16,7 @@ styled-components theming with responsive skills 💅💪
 
 ## Disclaimer
 
-This project is a mere PROOF OF CONCEPT as no tests have been implemented, the implementation is dirty and the API is extremely sensitive to change. We would discourage you from using this in a production environment but if you are brave (and maybe a bit crazy also 🙈) and you decide to use it anyway, your feedback, PR, issues or anything that could help will be very very welcome.
+This project is a mere PROOF OF CONCEPT as no tests have been implemented and the API is extremely sensitive to change. We would discourage you from using this in a production environment but if you are brave (and maybe a bit crazy also 🙈) and you decide to use it anyway, your feedback, PR, issues or anything that could help will be very very welcome.
 
 You can join the discussion about implementation details at the [spectrum thread](https://spectrum.chat/thread/0d131a9e-a687-4a64-a29e-eff7aaf84c46)
 
@@ -149,14 +149,14 @@ yarn && yarn start
 
 ## Motivation
 
-As it happens with a vast majority of libraries, the need to develop "styled-responsive-theming" has born naturally while developing a real-world product. That product is not mature enough to be published either mentioned here. Instead I will show you some practical use-cases which triggered the very first spark of thought that encouraged us to start with this proof of concept and hopefully an upcoming well-defined and solid library.
+As it happens with a vast majority of libraries, the need to develop "styled-responsive-theming" has born naturally while developing a real-world product. That product is not mature enough to be published either mentioned here. Instead I will show you some practical use-cases which triggered the very first spark that encouraged us to start with this proof of concept, and hopefully, an upcoming well-defined and solid library.
 
 Few months ago, our designer asked us to implement a design like the following:
 
 ![Design mockup image](./images/design-mockup.png)
 [see SVG here](./images/design-mockup.svg)
 
-Next, we started a discussion about how to split down the design in small, composable, reusable components following the single responsibility principle, so we ended up with the following decomposition:
+Next, we started a discussion about how to split down the design in small, composable, reusable components following the single responsibility principle, so we made the following decomposition:
 
 ![Design decomposition image](./images/design-small-decomposed.png)
 [see SVG here](./images/design-small-decomposed.svg)
@@ -238,7 +238,7 @@ Those among others where the reasons why we started to think that we needed anot
 
 #### createTheme(componentName, componentThemes)
 
-To create a theme for your component you have to provide a `default` set of properties, from that moment on, you can just extend the default properties by overriding them adding extra sets. In the following example you will see the definition of a theme for a `Button` component, which has two sets of properties, the `default` set and the `extraBordered` set. This last set of properties will override the radius of the `default` theme and will keep the rest of them intact.
+To create a theme for your component you have to provide a `default` set of properties, from that moment on, you can just extend the default properties by overriding them adding extra sets. In the following example you will see the definition of a theme for a `Button` component, which has two sets of properties, the `default` set and the `extraBordered` set. This last set of properties will override the radius of the `default` theme and keep the rest of them intact.
 
 Let's see the code:
 
@@ -352,7 +352,7 @@ const buttonDefaultTheme = ThemeManager.getTheme('Button.default')
 
 ### BaseTheme
 
-At the moment of integrating your component in an app you have to put the `BaseTheme` at the root of it. `BaseTheme` will inject all your component's themes in the [react-context](https://reactjs.org/docs/context.html) of your app using the [ThemeProvider](https://www.styled-components.com/docs/advanced#theming) from styled-components.
+At the moment of integrating your component in an app you have to put the `BaseTheme` at the root of it. `BaseTheme` will inject all your component's themes in the [react-context](https://reactjs.org/docs/context.html) of your app using a [ThemeProvider](https://www.styled-components.com/docs/advanced#theming).
 
 In order to apply the responsive properties of your themes correctly, `BaseTheme` need to know the `breakpoints` of your app.
 
@@ -401,7 +401,7 @@ const App = () => (
 )
 ```
 
-You can apply preset themes by accessing to them via `ThemeProvider.getTheme()`:
+You can apply preset themes by accessing them via `ThemeProvider.getTheme()`:
 
 ```jsx
 const App = () => (
@@ -420,6 +420,6 @@ const App = () => (
 
 ## Known Issues
 
-- __Redundant css generation__: When a responsive property of a theme is applied, the css of the component that is provided to the helper generated with `ThemeManager.createTheme()` is wrapped in different media queries (one for each breakpoint defined by the responsive property). Each media query contain all the properties of that piece of css, even if they do not change in comparison whit the previous breakpoint.
+- __Redundant css generation__: When a responsive property of a theme is applied, the css of the component that is provided to the helper generated with `ThemeManager.createTheme()` is wrapped in different media queries (one for each breakpoint defined by the responsive property). Each media query contain all the properties of that piece of css, even if they do not change in comparison with the previous breakpoint.
 
-  I think this can be fixed by comparing the css that is being wrapped in each media query with the css in the media query with the previous breakpoint, and deleting the redundant css properties.
+  I think this can be fixed by comparing the css across media queries, and striping out redundant css properties from each of them.
