@@ -2,7 +2,11 @@
 <svg width="1336px" height="1544px" viewBox="0 0 1336 1544" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFE4C8;">
     <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
     <title>Component Cutting</title>
-    <defs></defs>
+    <defs>
+        <style type="text/css">
+            @import url('https://fonts.googleapis.com/css?family=Lato:300,700');
+        </style>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Component-Cutting">
             <rect id="Rectangle-8" fill="#FFFFFF" x="64" y="101" width="360" height="640"></rect>
