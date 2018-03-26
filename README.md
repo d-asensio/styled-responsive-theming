@@ -153,11 +153,13 @@ As it happens with a vast majority of libraries, the need to develop "styled-res
 
 Few months ago, our designer asked us to implement a design like the following:
 
-![Design mockup image](./images/design-mockup.svg)
+![Design mockup image](./images/design-mockup.png)
+[see SVG here](./images/design-mockup.svg)
 
 Next, we started a discussion about how to split down the design in small, composable, reusable components following the single responsibility principle, so we ended up with the following decomposition:
 
-![Design decomposition image](./images/design-small-decomposed.svg)
+![Design decomposition image](./images/design-small-decomposed.png)
+[see SVG here](./images/design-small-decomposed.svg)
 
 At that moment we were using [styled-system](https://github.com/jxnblk/styled-system) and taking advantage of its awesome responsive props, "this is a piece of cake!" we thought... But then we started to develop our `DescriptionList` component and there is where the nightmare started.
 
